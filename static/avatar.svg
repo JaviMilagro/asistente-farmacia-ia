@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Asistente virtual">
+  <rect width="256" height="256" fill="#E8F5EE"/>
+  <!-- hombros y cabeza genéricos, sin rasgos -->
+  <path d="M40 256c0-50 38-84 88-84s88 34 88 84z" fill="#1E9E5A"/>
+  <circle cx="128" cy="98" r="44" fill="#fff"/>
+  <circle cx="128" cy="98" r="44" fill="none" stroke="#1E9E5A" stroke-width="6"/>
+  <!-- cruz de farmacia -->
+  <rect x="117" y="205" width="22" height="42" rx="4" fill="#fff"/>
+  <rect x="107" y="215" width="42" height="22" rx="4" fill="#fff"/>
+</svg>

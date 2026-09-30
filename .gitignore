@@ -1,0 +1,14 @@
+# Secretos y datos locales: nunca se suben
+.env
+logs/
+cache_embeddings/
+
+# Entornos virtuales y caché de Python
+.venv*
+__pycache__/
+*.pyc
+
+# Resultados locales de las evaluaciones, capturas y ficheros del sistema
+resultados_*.md
+capturas/
+.DS_Store

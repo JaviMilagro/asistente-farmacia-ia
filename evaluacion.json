@@ -1,0 +1,115 @@
+[
+  {
+    "consulta": "protector solar para niños",
+    "ids_esperados": [
+      106,
+      107,
+      108
+    ]
+  },
+  {
+    "consulta": "algo para la boca seca",
+    "ids_esperados": [
+      125,
+      126,
+      127
+    ]
+  },
+  {
+    "consulta": "champú anticaspa",
+    "ids_esperados": [
+      132,
+      133
+    ]
+  },
+  {
+    "consulta": "crema de manos para piel muy seca",
+    "ids_esperados": [
+      142,
+      143,
+      144
+    ]
+  },
+  {
+    "consulta": "lentillas diarias",
+    "ids_esperados": [
+      159,
+      160,
+      161,
+      163,
+      164,
+      165
+    ]
+  },
+  {
+    "consulta": "suero fisiológico",
+    "ids_esperados": [
+      167,
+      168,
+      169
+    ]
+  },
+  {
+    "consulta": "barrita de proteínas",
+    "ids_esperados": [
+      171,
+      172,
+      173
+    ]
+  },
+  {
+    "consulta": "termómetro",
+    "ids_esperados": [
+      176,
+      177,
+      178
+    ]
+  },
+  {
+    "consulta": "crema para piel atópica de bebé",
+    "ids_esperados": [
+      121,
+      122,
+      123,
+      124
+    ]
+  },
+  {
+    "consulta": "mascarilla para cabello teñido",
+    "ids_esperados": [
+      136,
+      137
+    ]
+  },
+  {
+    "consulta": "productos de Farmacia Ejemplo para el pelo",
+    "ids_esperados": [
+      139,
+      140
+    ]
+  },
+  {
+    "consulta": "crema para el culito del bebé con irritación del pañal",
+    "ids_esperados": [
+      112,
+      113
+    ]
+  },
+  {
+    "consulta": "protector solar facial",
+    "ids_esperados": [
+      101,
+      102,
+      110
+    ]
+  },
+  {
+    "consulta": "vitamina C",
+    "ids_esperados": [
+      153,
+      155,
+      156,
+      157
+    ]
+  }
+]
